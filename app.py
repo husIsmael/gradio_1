@@ -1,5 +1,7 @@
 import gradio as gr
 
+
+
 # Define a simple function to be used in the interface
 def greet(name):
     return f"Hello, {name}!"
